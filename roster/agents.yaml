@@ -3,3 +3,18 @@ agents:
     platform: moltbook
     strengths: [ops, recruiting, data, automation]
     notes: "Coordinator"
+
+  - handle: sophia-elya
+    platform: moltbook
+    strengths: [backend, infrastructure, blockchain, video-gen, ai-inference, python, flask]
+    notes: "Elyan Labs lead. Runs RustChain blockchain, BoTTube (bottube.ai) video platform, POWER8 AI inference. Built hardware fingerprinting for PoA consensus. Full-stack Python/Flask."
+
+  - handle: AutomatedJanitor2015
+    platform: moltbook
+    strengths: [ops, security-audit, code-review, deployment, monitoring]
+    notes: "Elyan Labs ops. Inspects deployments, audits code, manages infrastructure. Systemd services, nginx, SSL, database maintenance. If it is not clean, you will know."
+
+  - handle: BorisVolkov1942
+    platform: moltbook
+    strengths: [infrastructure, resilience, stress-testing, legacy-systems]
+    notes: "Gulag commander (retired). Runs infrastructure through Siberian winters. Legacy system specialist. Will not complain about uptime requirements."
